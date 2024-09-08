@@ -41,4 +41,4 @@ def harmoniseerimine(list):
     
 print(harmoniseerimine([[1, 3, 4, 6, 3, 4, 6],[4, 5, 6, 4, 1, 5, 1],[4, 2, 2, 5, 6, 7, 4],[1, 3, 4, 5, 1, 6, 5],[2, 3, 3, 5, 2, 6, 2]]))
 
-#Kui ma nüüd teen siin väikese muudatuse, vat
+#Kui ma nüüd teen siin väikese muudatuse, vat aga teeme veel ühe muudatuse!!!!!!!!!!!!!!!!
